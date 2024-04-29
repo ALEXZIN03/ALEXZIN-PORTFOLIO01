@@ -1,0 +1,15 @@
+#skills-cards {
+  display: flex;
+  justify-content: center; /* Centraliza horizontalmente */
+}
+
+.icons-container {
+  display: flex;
+  justify-content: center; /* Centraliza os ícones horizontalmente */
+  align-items: center; /* Centraliza os ícones verticalmente */
+}
+
+.icons-container article {
+  margin-right: 10px; /* Espaçamento entre os ícones */
+}
+
